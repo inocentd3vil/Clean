@@ -1,5 +1,5 @@
 # Clean.py
-## a simple discord mass message deleter
+a simple discord mass message deleter
 
 ![](https://i.imgur.com/p9PBhFR.png)
 
